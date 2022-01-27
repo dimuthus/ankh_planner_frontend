@@ -1,6 +1,6 @@
 # todo
-
-## Project setup
+You may need to start the backend application up and runnig to see the Plans in the frondend application.
+## Project setup frontend
 ```
 npm install
 ```
@@ -9,4 +9,5 @@ npm install
 ```
 npm run serve
 ```
+
 
